@@ -29,21 +29,20 @@ namespace LesterAlmendarez
                 if (i % 3 == 0 && i % 5 == 0)
                 {
 
-                    MessageBox.Show("lester almendarez ");
-
+                    MessageBox.Show("LESTER ALMENDAREZ  ");
 
 
                 }
                 else if (i % 3 == 0)
                 {
 
-                    MessageBox.Show("lester");
+                    MessageBox.Show("LESTER");
 
                 }
                 else if (i % 5 == 0)
                 {
 
-                    MessageBox.Show("almendarez");
+                    MessageBox.Show("ALMENDAREZ");
 
                 }
                 else {
@@ -58,16 +57,18 @@ namespace LesterAlmendarez
 
             }
         
-        
-        
-        
+
         
         }
 
+        private void label1_Click(object sender, EventArgs e)
+        {
 
+        }
 
+        private void label3_Click(object sender, EventArgs e)
+        {
 
-
-
+        }
     }
 }
